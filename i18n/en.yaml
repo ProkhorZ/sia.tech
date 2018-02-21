@@ -355,7 +355,7 @@
   translation: "Charts and metrics for the Sia network"
 
 - id: apps_obelisk
-  translation: "The first ASIC miner for Siacoin"
+  translation: "An ASIC miner for Siacoin"
 
 ### integrations ###
 - id: integrations_header
